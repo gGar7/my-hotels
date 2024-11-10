@@ -102,7 +102,7 @@ The `Person` data model represents information about staff members in the hotel.
 - **Example:**
   ```json
   {
-    "name": "John Doe",
+    "name": "Gautam Agarwal",
     "age": 30,
     "work": "waiter",
     "mobile": "123-456-7890",
