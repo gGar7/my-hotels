@@ -126,7 +126,7 @@ The `MenuItem` data model represents information about menu items available in t
 - **Example:**
   ```json
   {
-    "name": "Spicy Chicken Curry",
+    "name": "Butter Chicken Curry",
     "price": 12.99,
     "taste": "spicy",
     "is_drink": false,
